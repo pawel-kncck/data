@@ -1,0 +1,15 @@
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+vendor/
+Gemfile.lock
+.bundle/
+.DS_Store
+*.duckdb
+*.parquet
+data/raw/
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
